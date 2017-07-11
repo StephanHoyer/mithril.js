@@ -8,6 +8,7 @@ mithril.js [![NPM Version](https://img.shields.io/npm/v/mithril.svg)](https://ww
 	<a href="https://gitter.im/mithriljs/mithril.js">
 		<img src="https://img.shields.io/gitter/room/mithriljs/mithril.js.svg" alt="Gitter" />
 	</a>
+	<img src="http://img.badgesize.io/MithrilJS/mithril.js/master/mithril.min.js.svg?compression=gzip">
 </p>
 
 - [What is Mithril?](#what-is-mithril)
